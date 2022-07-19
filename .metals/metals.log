@@ -11,3 +11,7 @@
 2022.07.19 11:57:41 WARN  no build target for: /Users/wesleynd/Desktop/Scala/math.scala
 2022.07.19 12:04:22 WARN  no build target for: /Users/wesleynd/Desktop/Scala/math.scala
 2022.07.19 12:04:24 WARN  no build target for: /Users/wesleynd/Desktop/Scala/math.scala
+2022.07.19 12:08:00 WARN  no build target for: /Users/wesleynd/Desktop/Scala/math.scala
+2022.07.19 12:08:19 WARN  no build tool detected in workspace '/Users/wesleynd/Desktop/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.19 12:08:20 WARN  no build tool detected in workspace '/Users/wesleynd/Desktop/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.19 12:13:12 WARN  no build target for: /Users/wesleynd/Desktop/Scala/math.scala
