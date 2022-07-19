@@ -1,0 +1,11 @@
+2022.07.19 11:57:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/wesleynd/Desktop/Scala/.metals/lsp.trace.json or /Users/wesleynd/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.07.19 11:57:22 INFO  logging to file /Users/wesleynd/Desktop/Scala/.metals/metals.log
+2022.07.19 11:57:22 INFO  Started: Metals version 0.11.7 in workspace '/Users/wesleynd/Desktop/Scala' for client Visual Studio Code 1.66.2.
+2022.07.19 11:57:23 INFO  time: initialize in 0.68s
+2022.07.19 11:57:23 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.19 11:57:23 WARN  Build server is not auto-connectable.
+2022.07.19 11:57:23 WARN  no build tool detected in workspace '/Users/wesleynd/Desktop/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.19 11:57:25 WARN  no build target for: /Users/wesleynd/Desktop/Scala/index.scala
+2022.07.19 11:57:28 INFO  no build target found for /Users/wesleynd/Desktop/Scala/index.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.19 11:57:29 INFO  time: code lens generation in 3.65s
+2022.07.19 11:57:41 WARN  no build target for: /Users/wesleynd/Desktop/Scala/math.scala
